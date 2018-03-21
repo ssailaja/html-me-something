@@ -1,0 +1,17 @@
+#header {
+    padding: 30px;
+    border: 1px solid #4CAF50;
+    
+
+}
+p {
+    margin: 100px;
+    Font-family:san-serif;
+    Font-size:1em;
+}
+.personalities {
+    color:#f44286;
+}
+.song {
+    color:#b642f4;
+}
